@@ -44,27 +44,6 @@ CarRentalManagementSystem/
 
 ---
 
-## Installation & Setup
-
-### 1. Clone the Repository
-git clone https://github.com/your-username/car-rental-management-system.git
-
-### 2. Open in IDE
-Open the project in Eclipse / IntelliJ IDEA / NetBeans
-
-### 3. Setup Database
-- Create a database in Oracle/MySQL
-- Import the SQL file from `database/schema.sql`
-
-### 4. Configure JDBC
-Update your database credentials in the code:
-
-String url = "jdbc:mysql://localhost:3306/carrental";
-String user = "root";
-String password = "your_password";
-
-### 5. Run the Project
-Run the Main.java file
 
 - Login Page  
 - Dashboard  
