@@ -68,11 +68,11 @@ CarRentalManagementSystem/
 
 ---
 
-## 📄 License
+##  License
 This project is for educational purposes only.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 Thanks to our faculty and guide for their support and guidance.
